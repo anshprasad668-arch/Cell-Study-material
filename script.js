@@ -28,6 +28,95 @@ question: "Mitochondria are known as the ____ of the cell.",
 options: ["Kitchen", "Powerhouse", "Brain", "Heart"],
 answer: 1
 }
+    {
+question: "Which organelle is known as the powerhouse of the cell?",
+options: ["Nucleus", "Ribosome", "Mitochondria", "Golgi Body"],
+answer: 2
+},
+
+{
+question: "The jelly-like substance inside the cell is called:",
+options: ["Cell Wall", "Cytoplasm", "Nucleus", "Vacuole"],
+answer: 1
+},
+
+{
+question: "Which organelle contains the genetic material of the cell?",
+options: ["Nucleus", "Mitochondria", "Ribosome", "Golgi Body"],
+answer: 0
+},
+
+{
+question: "Which structure allows substances to enter and leave the cell?",
+options: ["Cell Wall", "Cell Membrane", "Nucleus", "Cytoplasm"],
+answer: 1
+},
+
+{
+question: "The cell wall is mainly made up of:",
+options: ["Protein", "Cellulose", "Fat", "Starch"],
+answer: 1
+},
+
+{
+question: "Which organelle is responsible for protein synthesis?",
+options: ["Ribosome", "Golgi Body", "Mitochondria", "Lysosome"],
+answer: 0
+},
+
+{
+question: "Which organelle is called the 'suicide bag' of the cell?",
+options: ["Ribosome", "Lysosome", "Nucleus", "Chloroplast"],
+answer: 1
+},
+
+{
+question: "Chloroplast is found only in:",
+options: ["Animal Cells", "Plant Cells", "Bacterial Cells", "Fungal Cells"],
+answer: 1
+},
+
+{
+question: "Which pigment gives plants their green colour?",
+options: ["Haemoglobin", "Melanin", "Chlorophyll", "Carotene"],
+answer: 2
+},
+
+{
+question: "Which organelle stores food, water and wastes?",
+options: ["Vacuole", "Ribosome", "Golgi Body", "Nucleus"],
+answer: 0
+},
+
+{
+question: "Who first observed living cells?",
+options: ["Robert Hooke", "Anton van Leeuwenhoek", "Robert Brown", "Schleiden"],
+answer: 1
+},
+
+{
+question: "Which of the following is absent in animal cells?",
+options: ["Cell Membrane", "Cell Wall", "Nucleus", "Mitochondria"],
+answer: 1
+},
+
+{
+question: "The nucleus is surrounded by a:",
+options: ["Cell Wall", "Nuclear Membrane", "Cell Membrane", "Cytoplasm"],
+answer: 1
+},
+
+{
+question: "The smallest unit capable of performing all life processes is:",
+options: ["Tissue", "Organ", "Cell", "Organ System"],
+answer: 2
+},
+
+{
+question: "Which cell organelle helps in photosynthesis?",
+options: ["Golgi Body", "Chloroplast", "Lysosome", "Ribosome"],
+answer: 1
+},
 ];
 
 let currentQuestion = 0;
