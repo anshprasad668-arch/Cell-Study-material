@@ -426,10 +426,8 @@ ${correct}
 
 html+=`
 
-<button onclick="location.reload()">
-
+<button class="retry-btn" onclick="location.reload()">
 🔄 Retry Quiz
-
 </button>
 
 `;
