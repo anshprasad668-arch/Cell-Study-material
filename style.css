@@ -811,20 +811,7 @@ cursor:pointer;
 .feedback-btn:hover{
     background:#1D4ED8;
 }
-/* =========================
-   QUIZ CONTAINER
-========================= */
 
-#quiz{
-    width:90%;
-    max-width:800px;
-    margin:40px auto;
-    padding:30px;
-    background:#ffffff;
-    border-radius:20px;
-    box-shadow:0 10px 25px rgba(0,0,0,.15);
-    animation:fade .4s ease;
-}
 
 @keyframes fade{
     from{
