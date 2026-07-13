@@ -27,7 +27,7 @@ answer: 1
 question: "Mitochondria are known as the ____ of the cell.",
 options: ["Kitchen", "Powerhouse", "Brain", "Heart"],
 answer: 1
-}
+},
     {
 question: "Which organelle is known as the powerhouse of the cell?",
 options: ["Nucleus", "Ribosome", "Mitochondria", "Golgi Body"],
