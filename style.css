@@ -885,3 +885,37 @@ cursor:pointer;
     text-align:center;
     margin-bottom:30px;
 }
+/* ===== Transparent Footer ===== */
+
+.footer{
+    width:100%;
+    text-align:center;
+    padding:25px 0;
+    background:transparent;
+    color:#ffffff;
+    font-size:18px;
+    font-weight:600;
+    margin-top:50px;
+}
+
+.footer p{
+    margin:0;
+    display:inline-block;
+    padding:10px 25px;
+    border-top:2px solid rgba(255,255,255,0.35);
+    border-bottom:2px solid rgba(255,255,255,0.35);
+}
+
+.footer strong{
+    color:#60A5FA;
+}
+
+@media(max-width:768px){
+    .footer{
+        font-size:15px;
+    }
+
+    .footer p{
+        padding:8px 15px;
+    }
+}
